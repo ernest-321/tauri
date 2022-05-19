@@ -187,6 +187,7 @@
     ".changes/fix-runtime-traits-requirements.md",
     ".changes/fix-safe-block-on.md",
     ".changes/fix-set-size-freeze.md",
+    ".changes/fix-sidecar-refresh.md",
     ".changes/fix-tauri-docsrs.md",
     ".changes/fix-tray-command.md",
     ".changes/fix-tray-menu-ids-update.md",
